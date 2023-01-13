@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "560194416620",
+    "project_id": "neo-music-fffaf",
+    "storage_bucket": "neo-music-fffaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560194416620:android:e9e7bf8423b26637921ac9",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560194416620-ul3lae2sgtcoj2k4bo89dj3f87pujncc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCasm9W4HKdwpSGnut7fTB8H2_YIu_P488"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560194416620-ul3lae2sgtcoj2k4bo89dj3f87pujncc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
